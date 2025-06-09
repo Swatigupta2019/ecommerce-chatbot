@@ -1,0 +1,740 @@
+[
+  {
+    "id": "4e3197b6-4f57-455c-be2f-a3be6237fb95",
+    "userId": "88f79839-bed2-4d43-b452-470ff45830a9",
+    "messages": [
+      {
+        "id": "3e1b92f1-b7e9-4cdc-acf8-91e6f3862698",
+        "type": "user",
+        "content": "Show me laptops under $1000",
+        "timestamp": "2025-06-09T14:50:29.894Z"
+      },
+      {
+        "id": "f7465188-81d0-497f-913b-f469784de759",
+        "type": "bot",
+        "content": "Here are some great laptop options:",
+        "products": [
+          {
+            "id": "1",
+            "name": "MacBook Pro 16-inch",
+            "description": "Powerful laptop with M2 Pro chip, 16GB RAM, 512GB SSD. Perfect for professionals and creative work.",
+            "price": 2499,
+            "category": "Laptops",
+            "image": "https://images.pexels.com/photos/18105/pexels-photo.jpg?auto=compress&cs=tinysrgb&w=400",
+            "stock": 15,
+            "rating": 4.8,
+            "features": [
+              "M2 Pro chip",
+              "16GB RAM",
+              "512GB SSD",
+              "16-inch Retina display"
+            ]
+          },
+          {
+            "id": "4",
+            "name": "Dell XPS 13",
+            "description": "Ultra-portable laptop with Intel i7, 16GB RAM, and InfinityEdge display.",
+            "price": 1299,
+            "category": "Laptops",
+            "image": "https://images.pexels.com/photos/18105/pexels-photo.jpg?auto=compress&cs=tinysrgb&w=400",
+            "stock": 20,
+            "rating": 4.5,
+            "features": [
+              "Intel i7",
+              "16GB RAM",
+              "512GB SSD",
+              "13.4-inch display"
+            ]
+          },
+          {
+            "id": "7",
+            "name": "ASUS ROG Strix Gaming Laptop",
+            "description": "High-performance gaming laptop with RTX 4070, 32GB RAM, 1TB SSD.",
+            "price": 1899,
+            "category": "Laptops",
+            "image": "https://images.pexels.com/photos/18105/pexels-photo.jpg?auto=compress&cs=tinysrgb&w=400",
+            "stock": 12,
+            "rating": 4.7,
+            "features": [
+              "RTX 4070",
+              "32GB RAM",
+              "1TB SSD",
+              "144Hz display"
+            ]
+          }
+        ],
+        "timestamp": "2025-06-09T14:50:29.894Z"
+      },
+      {
+        "id": "2a95d972-b41b-4a86-a459-84ec4edd361c",
+        "type": "user",
+        "content": "tell me about macbook",
+        "timestamp": "2025-06-09T14:50:50.797Z"
+      },
+      {
+        "id": "c5bc5a01-c4ab-47ff-b843-c3b9dc7d1d69",
+        "type": "bot",
+        "content": "I'm not sure I understand exactly what you're looking for, but here are some popular products you might like:",
+        "products": [
+          {
+            "id": "20",
+            "name": "Nothing Phone 2",
+            "description": "Unique transparent design smartphone with Glyph interface.",
+            "price": 599,
+            "category": "Smartphones",
+            "image": "https://images.pexels.com/photos/699122/pexels-photo-699122.jpeg?auto=compress&cs=tinysrgb&w=400",
+            "stock": 21,
+            "rating": 4.2,
+            "features": [
+              "Transparent design",
+              "Glyph interface",
+              "Snapdragon 8+ Gen 1",
+              "256GB storage"
+            ]
+          },
+          {
+            "id": "14",
+            "name": "Motorola Edge 50 Pro",
+            "description": "Mid-range smartphone with 144Hz display and 68W fast charging.",
+            "price": 599,
+            "category": "Smartphones",
+            "image": "https://images.pexels.com/photos/699122/pexels-photo-699122.jpeg?auto=compress&cs=tinysrgb&w=400",
+            "stock": 26,
+            "rating": 4.1,
+            "features": [
+              "Snapdragon 7 Gen 3",
+              "256GB storage",
+              "144Hz display",
+              "68W charging"
+            ]
+          },
+          {
+            "id": "18",
+            "name": "SteelSeries Arctis 7P",
+            "description": "Wireless gaming headset with 24-hour battery and DTS audio.",
+            "price": 179,
+            "category": "Headphones",
+            "image": "https://images.pexels.com/photos/3394650/pexels-photo-3394650.jpeg?auto=compress&cs=tinysrgb&w=400",
+            "stock": 32,
+            "rating": 4.3,
+            "features": [
+              "2.4GHz wireless",
+              "24-hour battery",
+              "DTS Headphone:X",
+              "Retractable mic"
+            ]
+          }
+        ],
+        "timestamp": "2025-06-09T14:50:50.797Z"
+      }
+    ],
+    "createdAt": "2025-06-09T14:50:29.894Z",
+    "updatedAt": "2025-06-09T14:50:50.797Z"
+  },
+  {
+    "id": "a13c0214-f779-4ced-b220-4e0b948f1df5",
+    "userId": "88f79839-bed2-4d43-b452-470ff45830a9",
+    "messages": [
+      {
+        "id": "a3dc70ea-964e-4301-9142-be7efed4ab1f",
+        "type": "user",
+        "content": "Compare gaming laptops",
+        "timestamp": "2025-06-09T14:54:06.830Z"
+      },
+      {
+        "id": "12ce1d24-ff2b-47db-9124-c3c6ab486a4e",
+        "type": "bot",
+        "content": "Here are some great laptop options:",
+        "products": [
+          {
+            "id": "7",
+            "name": "ASUS ROG Strix Gaming Laptop",
+            "description": "High-performance gaming laptop with RTX 4070, 32GB RAM, 1TB SSD.",
+            "price": 1899,
+            "category": "Laptops",
+            "image": "https://images.pexels.com/photos/18105/pexels-photo.jpg?auto=compress&cs=tinysrgb&w=400",
+            "stock": 12,
+            "rating": 4.7,
+            "features": [
+              "RTX 4070",
+              "32GB RAM",
+              "1TB SSD",
+              "144Hz display"
+            ]
+          },
+          {
+            "id": "1",
+            "name": "MacBook Pro 16-inch",
+            "description": "Powerful laptop with M2 Pro chip, 16GB RAM, 512GB SSD. Perfect for professionals and creative work.",
+            "price": 2499,
+            "category": "Laptops",
+            "image": "https://images.pexels.com/photos/18105/pexels-photo.jpg?auto=compress&cs=tinysrgb&w=400",
+            "stock": 15,
+            "rating": 4.8,
+            "features": [
+              "M2 Pro chip",
+              "16GB RAM",
+              "512GB SSD",
+              "16-inch Retina display"
+            ]
+          },
+          {
+            "id": "10",
+            "name": "HP Pavilion 15",
+            "description": "Affordable laptop for students and everyday use with AMD Ryzen 5.",
+            "price": 649,
+            "category": "Laptops",
+            "image": "https://images.pexels.com/photos/18105/pexels-photo.jpg?auto=compress&cs=tinysrgb&w=400",
+            "stock": 28,
+            "rating": 4.2,
+            "features": [
+              "AMD Ryzen 5",
+              "8GB RAM",
+              "256GB SSD",
+              "15.6-inch display"
+            ]
+          }
+        ],
+        "timestamp": "2025-06-09T14:54:06.831Z"
+      }
+    ],
+    "createdAt": "2025-06-09T14:54:06.830Z",
+    "updatedAt": "2025-06-09T14:54:06.831Z"
+  },
+  {
+    "id": "cd1cc1af-4bef-46b5-8c07-2bc671bbd5d6",
+    "userId": "88f79839-bed2-4d43-b452-470ff45830a9",
+    "messages": [
+      {
+        "id": "bff9108b-f55c-46b5-9d57-e09b02de68bf",
+        "type": "user",
+        "content": "What's the best smartphone for photography?",
+        "timestamp": "2025-06-09T14:56:54.300Z"
+      },
+      {
+        "id": "56bfb7ed-290a-492f-8edb-13a7dfcd5659",
+        "type": "bot",
+        "content": "Check out these popular smartphones:",
+        "products": [
+          {
+            "id": "20",
+            "name": "Nothing Phone 2",
+            "description": "Unique transparent design smartphone with Glyph interface.",
+            "price": 599,
+            "category": "Smartphones",
+            "image": "https://images.pexels.com/photos/699122/pexels-photo-699122.jpeg?auto=compress&cs=tinysrgb&w=400",
+            "stock": 21,
+            "rating": 4.2,
+            "features": [
+              "Transparent design",
+              "Glyph interface",
+              "Snapdragon 8+ Gen 1",
+              "256GB storage"
+            ]
+          },
+          {
+            "id": "14",
+            "name": "Motorola Edge 50 Pro",
+            "description": "Mid-range smartphone with 144Hz display and 68W fast charging.",
+            "price": 599,
+            "category": "Smartphones",
+            "image": "https://images.pexels.com/photos/699122/pexels-photo-699122.jpeg?auto=compress&cs=tinysrgb&w=400",
+            "stock": 26,
+            "rating": 4.1,
+            "features": [
+              "Snapdragon 7 Gen 3",
+              "256GB storage",
+              "144Hz display",
+              "68W charging"
+            ]
+          },
+          {
+            "id": "8",
+            "name": "Google Pixel 8",
+            "description": "AI-powered smartphone with exceptional camera and 7 years of updates.",
+            "price": 699,
+            "category": "Smartphones",
+            "image": "https://images.pexels.com/photos/699122/pexels-photo-699122.jpeg?auto=compress&cs=tinysrgb&w=400",
+            "stock": 22,
+            "rating": 4.5,
+            "features": [
+              "Google Tensor G3",
+              "128GB storage",
+              "AI camera features",
+              "7-year updates"
+            ]
+          }
+        ],
+        "timestamp": "2025-06-09T14:56:54.301Z"
+      }
+    ],
+    "createdAt": "2025-06-09T14:56:54.300Z",
+    "updatedAt": "2025-06-09T14:56:54.301Z"
+  },
+  {
+    "id": "741da8dc-c0c7-49f8-a9b4-c67f1b45276e",
+    "userId": "88f79839-bed2-4d43-b452-470ff45830a9",
+    "messages": [
+      {
+        "id": "bcf087fd-3747-4392-a687-305285d31a2d",
+        "type": "user",
+        "content": "What's the best smartphone for photography?",
+        "timestamp": "2025-06-09T15:11:27.621Z"
+      },
+      {
+        "id": "12778079-c65d-4957-9763-ad70ecea8757",
+        "type": "bot",
+        "content": "Check out these popular smartphones:",
+        "products": [
+          {
+            "id": "20",
+            "name": "Nothing Phone 2",
+            "description": "Unique transparent design smartphone with Glyph interface.",
+            "price": 599,
+            "category": "Smartphones",
+            "image": "https://images.pexels.com/photos/699122/pexels-photo-699122.jpeg?auto=compress&cs=tinysrgb&w=400",
+            "stock": 21,
+            "rating": 4.2,
+            "features": [
+              "Transparent design",
+              "Glyph interface",
+              "Snapdragon 8+ Gen 1",
+              "256GB storage"
+            ]
+          },
+          {
+            "id": "14",
+            "name": "Motorola Edge 50 Pro",
+            "description": "Mid-range smartphone with 144Hz display and 68W fast charging.",
+            "price": 599,
+            "category": "Smartphones",
+            "image": "https://images.pexels.com/photos/699122/pexels-photo-699122.jpeg?auto=compress&cs=tinysrgb&w=400",
+            "stock": 26,
+            "rating": 4.1,
+            "features": [
+              "Snapdragon 7 Gen 3",
+              "256GB storage",
+              "144Hz display",
+              "68W charging"
+            ]
+          },
+          {
+            "id": "8",
+            "name": "Google Pixel 8",
+            "description": "AI-powered smartphone with exceptional camera and 7 years of updates.",
+            "price": 699,
+            "category": "Smartphones",
+            "image": "https://images.pexels.com/photos/699122/pexels-photo-699122.jpeg?auto=compress&cs=tinysrgb&w=400",
+            "stock": 22,
+            "rating": 4.5,
+            "features": [
+              "Google Tensor G3",
+              "128GB storage",
+              "AI camera features",
+              "7-year updates"
+            ]
+          }
+        ],
+        "timestamp": "2025-06-09T15:11:27.621Z"
+      },
+      {
+        "id": "5caf89fa-fe0c-4cec-8735-8b8d3e516ad2",
+        "type": "user",
+        "content": "more",
+        "timestamp": "2025-06-09T15:11:36.109Z"
+      },
+      {
+        "id": "040127f9-c2e4-4ce1-b7f9-7dc71afb8ea3",
+        "type": "bot",
+        "content": "I'm not sure I understand exactly what you're looking for, but here are some popular products you might like:",
+        "products": [
+          {
+            "id": "20",
+            "name": "Nothing Phone 2",
+            "description": "Unique transparent design smartphone with Glyph interface.",
+            "price": 599,
+            "category": "Smartphones",
+            "image": "https://images.pexels.com/photos/699122/pexels-photo-699122.jpeg?auto=compress&cs=tinysrgb&w=400",
+            "stock": 21,
+            "rating": 4.2,
+            "features": [
+              "Transparent design",
+              "Glyph interface",
+              "Snapdragon 8+ Gen 1",
+              "256GB storage"
+            ]
+          },
+          {
+            "id": "3",
+            "name": "Sony WH-1000XM5",
+            "description": "Premium noise-canceling wireless headphones with 30-hour battery life.",
+            "price": 399,
+            "category": "Headphones",
+            "image": "https://images.pexels.com/photos/3394650/pexels-photo-3394650.jpeg?auto=compress&cs=tinysrgb&w=400",
+            "stock": 40,
+            "rating": 4.6,
+            "features": [
+              "Active noise canceling",
+              "30-hour battery",
+              "Touch controls",
+              "Quick charge"
+            ]
+          },
+          {
+            "id": "2",
+            "name": "iPhone 15 Pro",
+            "description": "Latest iPhone with A17 Pro chip, 128GB storage, and advanced camera system.",
+            "price": 999,
+            "category": "Smartphones",
+            "image": "https://images.pexels.com/photos/699122/pexels-photo-699122.jpeg?auto=compress&cs=tinysrgb&w=400",
+            "stock": 25,
+            "rating": 4.7,
+            "features": [
+              "A17 Pro chip",
+              "128GB storage",
+              "Triple camera system",
+              "Titanium design"
+            ]
+          }
+        ],
+        "timestamp": "2025-06-09T15:11:36.109Z"
+      },
+      {
+        "id": "580a0236-2d5a-451d-9343-4acbdcd0cf07",
+        "type": "user",
+        "content": "is iphone good?",
+        "timestamp": "2025-06-09T15:11:52.340Z"
+      },
+      {
+        "id": "51932b70-1f56-463c-9d50-8ce3c027d924",
+        "type": "bot",
+        "content": "Check out these popular smartphones:",
+        "products": [
+          {
+            "id": "20",
+            "name": "Nothing Phone 2",
+            "description": "Unique transparent design smartphone with Glyph interface.",
+            "price": 599,
+            "category": "Smartphones",
+            "image": "https://images.pexels.com/photos/699122/pexels-photo-699122.jpeg?auto=compress&cs=tinysrgb&w=400",
+            "stock": 21,
+            "rating": 4.2,
+            "features": [
+              "Transparent design",
+              "Glyph interface",
+              "Snapdragon 8+ Gen 1",
+              "256GB storage"
+            ]
+          },
+          {
+            "id": "2",
+            "name": "iPhone 15 Pro",
+            "description": "Latest iPhone with A17 Pro chip, 128GB storage, and advanced camera system.",
+            "price": 999,
+            "category": "Smartphones",
+            "image": "https://images.pexels.com/photos/699122/pexels-photo-699122.jpeg?auto=compress&cs=tinysrgb&w=400",
+            "stock": 25,
+            "rating": 4.7,
+            "features": [
+              "A17 Pro chip",
+              "128GB storage",
+              "Triple camera system",
+              "Titanium design"
+            ]
+          },
+          {
+            "id": "14",
+            "name": "Motorola Edge 50 Pro",
+            "description": "Mid-range smartphone with 144Hz display and 68W fast charging.",
+            "price": 599,
+            "category": "Smartphones",
+            "image": "https://images.pexels.com/photos/699122/pexels-photo-699122.jpeg?auto=compress&cs=tinysrgb&w=400",
+            "stock": 26,
+            "rating": 4.1,
+            "features": [
+              "Snapdragon 7 Gen 3",
+              "256GB storage",
+              "144Hz display",
+              "68W charging"
+            ]
+          }
+        ],
+        "timestamp": "2025-06-09T15:11:52.340Z"
+      }
+    ],
+    "createdAt": "2025-06-09T15:11:27.621Z",
+    "updatedAt": "2025-06-09T15:11:52.340Z"
+  },
+  {
+    "id": "547f2cf6-9c74-46ab-9f12-976ba86d5d19",
+    "userId": "88f79839-bed2-4d43-b452-470ff45830a9",
+    "messages": [
+      {
+        "id": "09eedc95-7032-4f67-b0ca-e385525526ba",
+        "type": "user",
+        "content": "Show me laptops under $1000",
+        "timestamp": "2025-06-09T15:23:20.006Z"
+      },
+      {
+        "id": "12bc356e-5665-4a17-976b-2651a7406ef7",
+        "type": "bot",
+        "content": "Here are some great laptop options:",
+        "products": [
+          {
+            "id": "1",
+            "name": "MacBook Pro 16-inch",
+            "description": "Powerful laptop with M2 Pro chip, 16GB RAM, 512GB SSD. Perfect for professionals and creative work.",
+            "price": 2499,
+            "category": "Laptops",
+            "image": "https://images.pexels.com/photos/18105/pexels-photo.jpg?auto=compress&cs=tinysrgb&w=400",
+            "stock": 15,
+            "rating": 4.8,
+            "features": [
+              "M2 Pro chip",
+              "16GB RAM",
+              "512GB SSD",
+              "16-inch Retina display"
+            ]
+          },
+          {
+            "id": "16",
+            "name": "Lenovo ThinkPad X1 Carbon",
+            "description": "Business ultrabook with military-grade durability and security features.",
+            "price": 1899,
+            "category": "Laptops",
+            "image": "https://images.pexels.com/photos/18105/pexels-photo.jpg?auto=compress&cs=tinysrgb&w=400",
+            "stock": 10,
+            "rating": 4.7,
+            "features": [
+              "Intel i7 vPro",
+              "16GB RAM",
+              "1TB SSD",
+              "Military-grade durability"
+            ]
+          },
+          {
+            "id": "4",
+            "name": "Dell XPS 13",
+            "description": "Ultra-portable laptop with Intel i7, 16GB RAM, and InfinityEdge display.",
+            "price": 1299,
+            "category": "Laptops",
+            "image": "https://images.pexels.com/photos/18105/pexels-photo.jpg?auto=compress&cs=tinysrgb&w=400",
+            "stock": 20,
+            "rating": 4.5,
+            "features": [
+              "Intel i7",
+              "16GB RAM",
+              "512GB SSD",
+              "13.4-inch display"
+            ]
+          }
+        ],
+        "timestamp": "2025-06-09T15:23:20.006Z"
+      },
+      {
+        "id": "9653a6e9-006f-401b-b746-501dfd7c3334",
+        "type": "user",
+        "content": "is dell good",
+        "timestamp": "2025-06-09T15:23:48.810Z"
+      },
+      {
+        "id": "29493928-6814-423d-af1a-b21384db0977",
+        "type": "bot",
+        "content": "I'm not sure I understand exactly what you're looking for, but here are some popular products you might like:",
+        "products": [
+          {
+            "id": "20",
+            "name": "Nothing Phone 2",
+            "description": "Unique transparent design smartphone with Glyph interface.",
+            "price": 599,
+            "category": "Smartphones",
+            "image": "https://images.pexels.com/photos/699122/pexels-photo-699122.jpeg?auto=compress&cs=tinysrgb&w=400",
+            "stock": 21,
+            "rating": 4.2,
+            "features": [
+              "Transparent design",
+              "Glyph interface",
+              "Snapdragon 8+ Gen 1",
+              "256GB storage"
+            ]
+          },
+          {
+            "id": "18",
+            "name": "SteelSeries Arctis 7P",
+            "description": "Wireless gaming headset with 24-hour battery and DTS audio.",
+            "price": 179,
+            "category": "Headphones",
+            "image": "https://images.pexels.com/photos/3394650/pexels-photo-3394650.jpeg?auto=compress&cs=tinysrgb&w=400",
+            "stock": 32,
+            "rating": 4.3,
+            "features": [
+              "2.4GHz wireless",
+              "24-hour battery",
+              "DTS Headphone:X",
+              "Retractable mic"
+            ]
+          },
+          {
+            "id": "17",
+            "name": "Xiaomi 14 Ultra",
+            "description": "Photography-focused smartphone with Leica camera system.",
+            "price": 1299,
+            "category": "Smartphones",
+            "image": "https://images.pexels.com/photos/699122/pexels-photo-699122.jpeg?auto=compress&cs=tinysrgb&w=400",
+            "stock": 14,
+            "rating": 4.8,
+            "features": [
+              "Leica camera",
+              "Snapdragon 8 Gen 3",
+              "512GB storage",
+              "6.73-inch OLED"
+            ]
+          }
+        ],
+        "timestamp": "2025-06-09T15:23:48.810Z"
+      }
+    ],
+    "createdAt": "2025-06-09T15:23:20.006Z",
+    "updatedAt": "2025-06-09T15:23:48.810Z"
+  },
+  {
+    "id": "6a90f65f-d9bb-42a5-be5b-f48c4faf5bbf",
+    "userId": "88f79839-bed2-4d43-b452-470ff45830a9",
+    "messages": [
+      {
+        "id": "54bca10d-6387-4961-87b5-5c004e2888cf",
+        "type": "user",
+        "content": "What's the best smartphone for photography?",
+        "timestamp": "2025-06-09T15:27:45.411Z"
+      },
+      {
+        "id": "eb21db80-8551-4547-8ed4-a2acca2b2118",
+        "type": "bot",
+        "content": "Check out these popular smartphones:",
+        "products": [
+          {
+            "id": "20",
+            "name": "Nothing Phone 2",
+            "description": "Unique transparent design smartphone with Glyph interface.",
+            "price": 599,
+            "category": "Smartphones",
+            "image": "https://images.pexels.com/photos/699122/pexels-photo-699122.jpeg?auto=compress&cs=tinysrgb&w=400",
+            "stock": 21,
+            "rating": 4.2,
+            "features": [
+              "Transparent design",
+              "Glyph interface",
+              "Snapdragon 8+ Gen 1",
+              "256GB storage"
+            ]
+          },
+          {
+            "id": "17",
+            "name": "Xiaomi 14 Ultra",
+            "description": "Photography-focused smartphone with Leica camera system.",
+            "price": 1299,
+            "category": "Smartphones",
+            "image": "https://images.pexels.com/photos/699122/pexels-photo-699122.jpeg?auto=compress&cs=tinysrgb&w=400",
+            "stock": 14,
+            "rating": 4.8,
+            "features": [
+              "Leica camera",
+              "Snapdragon 8 Gen 3",
+              "512GB storage",
+              "6.73-inch OLED"
+            ]
+          },
+          {
+            "id": "11",
+            "name": "OnePlus 12",
+            "description": "Fast-charging flagship with Snapdragon 8 Gen 3 and 256GB storage.",
+            "price": 799,
+            "category": "Smartphones",
+            "image": "https://images.pexels.com/photos/699122/pexels-photo-699122.jpeg?auto=compress&cs=tinysrgb&w=400",
+            "stock": 18,
+            "rating": 4.4,
+            "features": [
+              "Snapdragon 8 Gen 3",
+              "256GB storage",
+              "100W fast charging",
+              "50MP camera"
+            ]
+          }
+        ],
+        "timestamp": "2025-06-09T15:27:45.411Z"
+      }
+    ],
+    "createdAt": "2025-06-09T15:27:45.411Z",
+    "updatedAt": "2025-06-09T15:27:45.411Z"
+  },
+  {
+    "id": "f5586bde-213b-478e-b0dd-1de9fc363a25",
+    "userId": "88f79839-bed2-4d43-b452-470ff45830a9",
+    "messages": [
+      {
+        "id": "a7cfbf43-9fb0-4b82-80cf-c36a0a554caf",
+        "type": "user",
+        "content": "Show me laptops under $1000",
+        "timestamp": "2025-06-09T15:42:15.210Z"
+      },
+      {
+        "id": "bab0ddbe-6e74-4416-b0f0-e42baf364698",
+        "type": "bot",
+        "content": "Here are some great laptop options:",
+        "products": [
+          {
+            "id": "7",
+            "name": "ASUS ROG Strix Gaming Laptop",
+            "description": "High-performance gaming laptop with RTX 4070, 32GB RAM, 1TB SSD.",
+            "price": 1899,
+            "category": "Laptops",
+            "image": "https://images.pexels.com/photos/18105/pexels-photo.jpg?auto=compress&cs=tinysrgb&w=400",
+            "stock": 12,
+            "rating": 4.7,
+            "features": [
+              "RTX 4070",
+              "32GB RAM",
+              "1TB SSD",
+              "144Hz display"
+            ]
+          },
+          {
+            "id": "16",
+            "name": "Lenovo ThinkPad X1 Carbon",
+            "description": "Business ultrabook with military-grade durability and security features.",
+            "price": 1899,
+            "category": "Laptops",
+            "image": "https://images.pexels.com/photos/18105/pexels-photo.jpg?auto=compress&cs=tinysrgb&w=400",
+            "stock": 10,
+            "rating": 4.7,
+            "features": [
+              "Intel i7 vPro",
+              "16GB RAM",
+              "1TB SSD",
+              "Military-grade durability"
+            ]
+          },
+          {
+            "id": "4",
+            "name": "Dell XPS 13",
+            "description": "Ultra-portable laptop with Intel i7, 16GB RAM, and InfinityEdge display.",
+            "price": 1299,
+            "category": "Laptops",
+            "image": "https://images.pexels.com/photos/18105/pexels-photo.jpg?auto=compress&cs=tinysrgb&w=400",
+            "stock": 20,
+            "rating": 4.5,
+            "features": [
+              "Intel i7",
+              "16GB RAM",
+              "512GB SSD",
+              "13.4-inch display"
+            ]
+          }
+        ],
+        "timestamp": "2025-06-09T15:42:15.210Z"
+      }
+    ],
+    "createdAt": "2025-06-09T15:42:15.210Z",
+    "updatedAt": "2025-06-09T15:42:15.210Z"
+  }
+]
