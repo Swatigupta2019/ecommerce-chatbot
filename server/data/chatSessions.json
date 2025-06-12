@@ -736,5 +736,277 @@
     ],
     "createdAt": "2025-06-09T15:42:15.210Z",
     "updatedAt": "2025-06-09T15:42:15.210Z"
+  },
+  {
+    "id": "e6b57de2-b57e-4b68-8233-35332f66b0f9",
+    "userId": "88f79839-bed2-4d43-b452-470ff45830a9",
+    "messages": [
+      {
+        "id": "03b682ed-82b6-47ed-a5a7-d2e974850300",
+        "type": "user",
+        "content": "Show me laptops under $1000",
+        "timestamp": "2025-06-10T17:49:10.831Z"
+      },
+      {
+        "id": "a06b6d88-2937-451b-80c0-5a122c40795c",
+        "type": "bot",
+        "content": "I found 7 products that might interest you:",
+        "products": [
+          {
+            "id": "1",
+            "name": "MacBook Pro 16-inch",
+            "description": "Powerful laptop with M2 Pro chip, 16GB RAM, 512GB SSD. Perfect for professionals and creative work.",
+            "price": 2499,
+            "category": "Laptops",
+            "image": "https://images.pexels.com/photos/18105/pexels-photo.jpg?auto=compress&cs=tinysrgb&w=400",
+            "stock": 15,
+            "rating": 4.8,
+            "features": [
+              "M2 Pro chip",
+              "16GB RAM",
+              "512GB SSD",
+              "16-inch Retina display"
+            ]
+          },
+          {
+            "id": "4",
+            "name": "Dell XPS 13",
+            "description": "Ultra-portable laptop with Intel i7, 16GB RAM, and InfinityEdge display.",
+            "price": 1299,
+            "category": "Laptops",
+            "image": "https://images.pexels.com/photos/18105/pexels-photo.jpg?auto=compress&cs=tinysrgb&w=400",
+            "stock": 20,
+            "rating": 4.5,
+            "features": [
+              "Intel i7",
+              "16GB RAM",
+              "512GB SSD",
+              "13.4-inch display"
+            ]
+          },
+          {
+            "id": "7",
+            "name": "ASUS ROG Strix Gaming Laptop",
+            "description": "High-performance gaming laptop with RTX 4070, 32GB RAM, 1TB SSD.",
+            "price": 1899,
+            "category": "Laptops",
+            "image": "https://images.pexels.com/photos/18105/pexels-photo.jpg?auto=compress&cs=tinysrgb&w=400",
+            "stock": 12,
+            "rating": 4.7,
+            "features": [
+              "RTX 4070",
+              "32GB RAM",
+              "1TB SSD",
+              "144Hz display"
+            ]
+          },
+          {
+            "id": "10",
+            "name": "HP Pavilion 15",
+            "description": "Affordable laptop for students and everyday use with AMD Ryzen 5.",
+            "price": 649,
+            "category": "Laptops",
+            "image": "https://images.pexels.com/photos/18105/pexels-photo.jpg?auto=compress&cs=tinysrgb&w=400",
+            "stock": 28,
+            "rating": 4.2,
+            "features": [
+              "AMD Ryzen 5",
+              "8GB RAM",
+              "256GB SSD",
+              "15.6-inch display"
+            ]
+          },
+          {
+            "id": "13",
+            "name": "Microsoft Surface Laptop 5",
+            "description": "Premium Windows laptop with touchscreen and all-day battery life.",
+            "price": 1299,
+            "category": "Laptops",
+            "image": "https://images.pexels.com/photos/18105/pexels-photo.jpg?auto=compress&cs=tinysrgb&w=400",
+            "stock": 16,
+            "rating": 4.3,
+            "features": [
+              "Intel i7",
+              "16GB RAM",
+              "512GB SSD",
+              "13.5-inch touchscreen"
+            ]
+          }
+        ],
+        "timestamp": "2025-06-10T17:49:10.833Z"
+      }
+    ],
+    "createdAt": "2025-06-10T17:49:10.831Z",
+    "updatedAt": "2025-06-10T17:49:10.833Z"
+  },
+  {
+    "id": "33ccec7a-8a19-4722-834e-55daad8902e7",
+    "userId": "88f79839-bed2-4d43-b452-470ff45830a9",
+    "messages": [
+      {
+        "id": "284722b4-6741-4c04-8039-e5e7ab04fb36",
+        "type": "user",
+        "content": "What's the best smartphone for photography?",
+        "timestamp": "2025-06-12T04:53:09.929Z"
+      },
+      {
+        "id": "b1cb17ee-1759-497d-82d4-1fd5de4ad2e1",
+        "type": "bot",
+        "content": "For photography, I'd recommend these smartphones with excellent camera systems:",
+        "products": [
+          {
+            "id": "2",
+            "name": "iPhone 15 Pro",
+            "description": "Latest iPhone with A17 Pro chip, 128GB storage, and advanced camera system.",
+            "price": 999,
+            "category": "Smartphones",
+            "image": "https://images.pexels.com/photos/699122/pexels-photo-699122.jpeg?auto=compress&cs=tinysrgb&w=400",
+            "stock": 25,
+            "rating": 4.7,
+            "features": [
+              "A17 Pro chip",
+              "128GB storage",
+              "Triple camera system",
+              "Titanium design"
+            ]
+          },
+          {
+            "id": "5",
+            "name": "Samsung Galaxy S24 Ultra",
+            "description": "Flagship Android phone with S Pen, 256GB storage, and 200MP camera.",
+            "price": 1199,
+            "category": "Smartphones",
+            "image": "https://images.pexels.com/photos/699122/pexels-photo-699122.jpeg?auto=compress&cs=tinysrgb&w=400",
+            "stock": 30,
+            "rating": 4.6,
+            "features": [
+              "S Pen included",
+              "256GB storage",
+              "200MP camera",
+              "6.8-inch display"
+            ]
+          },
+          {
+            "id": "8",
+            "name": "Google Pixel 8",
+            "description": "AI-powered smartphone with exceptional camera and 7 years of updates.",
+            "price": 699,
+            "category": "Smartphones",
+            "image": "https://images.pexels.com/photos/699122/pexels-photo-699122.jpeg?auto=compress&cs=tinysrgb&w=400",
+            "stock": 22,
+            "rating": 4.5,
+            "features": [
+              "Google Tensor G3",
+              "128GB storage",
+              "AI camera features",
+              "7-year updates"
+            ]
+          }
+        ],
+        "timestamp": "2025-06-12T04:53:09.930Z"
+      },
+      {
+        "id": "12007ad6-c657-4755-9758-4709931d10fe",
+        "type": "user",
+        "content": "tell me about iphone",
+        "timestamp": "2025-06-12T04:53:24.433Z"
+      },
+      {
+        "id": "78770a7c-ac49-4d4f-a03a-b5a6ed2bbd6a",
+        "type": "bot",
+        "content": "Here are the iPhones we have in stock:",
+        "products": [
+          {
+            "id": "2",
+            "name": "iPhone 15 Pro",
+            "description": "Latest iPhone with A17 Pro chip, 128GB storage, and advanced camera system.",
+            "price": 999,
+            "category": "Smartphones",
+            "image": "https://images.pexels.com/photos/699122/pexels-photo-699122.jpeg?auto=compress&cs=tinysrgb&w=400",
+            "stock": 25,
+            "rating": 4.7,
+            "features": [
+              "A17 Pro chip",
+              "128GB storage",
+              "Triple camera system",
+              "Titanium design"
+            ]
+          }
+        ],
+        "timestamp": "2025-06-12T04:53:24.434Z"
+      }
+    ],
+    "createdAt": "2025-06-12T04:53:09.929Z",
+    "updatedAt": "2025-06-12T04:53:24.434Z"
+  },
+  {
+    "id": "76d957d8-482e-4895-8e30-1c21b4931df5",
+    "userId": "88f79839-bed2-4d43-b452-470ff45830a9",
+    "messages": [
+      {
+        "id": "623523ad-f592-49fd-a996-099f45ad3c73",
+        "type": "user",
+        "content": "Compare gaming laptops",
+        "timestamp": "2025-06-12T04:53:48.823Z"
+      },
+      {
+        "id": "f64348f9-7644-4e31-ba10-e7b21332535f",
+        "type": "bot",
+        "content": "Here are some great laptop options:",
+        "products": [
+          {
+            "id": "1",
+            "name": "MacBook Pro 16-inch",
+            "description": "Powerful laptop with M2 Pro chip, 16GB RAM, 512GB SSD. Perfect for professionals and creative work.",
+            "price": 2499,
+            "category": "Laptops",
+            "image": "https://images.pexels.com/photos/18105/pexels-photo.jpg?auto=compress&cs=tinysrgb&w=400",
+            "stock": 15,
+            "rating": 4.8,
+            "features": [
+              "M2 Pro chip",
+              "16GB RAM",
+              "512GB SSD",
+              "16-inch Retina display"
+            ]
+          },
+          {
+            "id": "4",
+            "name": "Dell XPS 13",
+            "description": "Ultra-portable laptop with Intel i7, 16GB RAM, and InfinityEdge display.",
+            "price": 1299,
+            "category": "Laptops",
+            "image": "https://images.pexels.com/photos/18105/pexels-photo.jpg?auto=compress&cs=tinysrgb&w=400",
+            "stock": 20,
+            "rating": 4.5,
+            "features": [
+              "Intel i7",
+              "16GB RAM",
+              "512GB SSD",
+              "13.4-inch display"
+            ]
+          },
+          {
+            "id": "7",
+            "name": "ASUS ROG Strix Gaming Laptop",
+            "description": "High-performance gaming laptop with RTX 4070, 32GB RAM, 1TB SSD.",
+            "price": 1899,
+            "category": "Laptops",
+            "image": "https://images.pexels.com/photos/18105/pexels-photo.jpg?auto=compress&cs=tinysrgb&w=400",
+            "stock": 12,
+            "rating": 4.7,
+            "features": [
+              "RTX 4070",
+              "32GB RAM",
+              "1TB SSD",
+              "144Hz display"
+            ]
+          }
+        ],
+        "timestamp": "2025-06-12T04:53:48.823Z"
+      }
+    ],
+    "createdAt": "2025-06-12T04:53:48.823Z",
+    "updatedAt": "2025-06-12T04:53:48.823Z"
   }
 ]
